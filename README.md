@@ -8,4 +8,4 @@ How to use? and Details
 5. Normally, drag and drop is not supported on mobile browser.
 6. Solve the problem by solution from this article -> https://www.codeproject.com/Articles/1091766/Add-support-for-standard-HTML-Drag-and-Drop-operat 
 7. Need to add some little task on css file to disble an overflow-y behaviour to prevent pulling down to refresh on most of mobile browser.
-Go to link: 
+8. Go to link: https://chondan.github.io/Todo-Lists/
